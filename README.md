@@ -19,3 +19,10 @@ Crypto Chicken Run smart contract link: https://scan-warringstakes.meter.io/addr
 Symbals Game Smart contract link: https://scan-warringstakes.meter.io/address/0xcf9ed05F066D7Be08308720cCbEf8886d6456605
 
 Both smart contracts are deployed on Meter Testnet Network
+
+
+- Game with boost enabled after burning the nft
+![Game with boost enabled after burning the nft](/game1.png)
+
+- Profile nft page with burning function transacted on Meter Testnet
+![Profile nft page with burning function transacted on Meter Testnet](/game2.png)
