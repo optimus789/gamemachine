@@ -815,7 +815,8 @@ function animate(timestamp) {
                           fetch('/apiRoute/mintNft', options).then(
                             async (response) => {
                               let resObj = await response.json();
-                              console.log(`Txhash link: https://neonscan.org/tx/${resObj.hash}?cluster=devnet`)
+                              // console.log(`Txhash link: https://neonscan.org/tx/${resObj.hash}?cluster=devnet`)
+                              console.log(`Txhash link: https://scan-warringstakes.meter.io/tx/${resObj.hash}?cluster=devnet`)
                             }
                           ).catch(
                               (error) => {
