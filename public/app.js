@@ -156,7 +156,7 @@ ethereum.on("connect", (chainId) => {
 ethereum.on("disconnect", (chainId) => {
     console.log(chainId);
     console.log("Metamask Connected:", ethereum.isConnected());
-    alert("Metamask is not connected to neon devnet network. Retry!");
+    alert("Metamask is not connected to meter testnet network. Retry!");
 });
 
 // add click event listener on the connect button
