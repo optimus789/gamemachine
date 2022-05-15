@@ -12,7 +12,7 @@ It is made using the Meter testnet Blockchain, IPFS, Tableland and EthersJs. Per
 
 Our motive behind this was to develop a conversion engine that will be provided as a service to web2 games and its developer and they would be able to easily implement web3 features in their games. 
 
-URL: https://gm-neon.herokuapp.com
+URL: https://gamemachine-meter.herokuapp.com
 
 Crypto Chicken Run smart contract link: https://scan-warringstakes.meter.io/address/0xC1271a285b123778D9C5E14c64bcaE4ed12A4934
 
